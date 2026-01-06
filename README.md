@@ -43,6 +43,10 @@ When these methods are called through a `Vehicle` reference, the correct subclas
 
 Navigate to the `src` directory and run the following commands:
 
+##  D.
+<img width="462" height="385" alt="Снимок экрана 2026-01-06 122133" src="https://github.com/user-attachments/assets/7dc0a953-2c60-4538-afaf-f5fc2cf64ffa" />
+
+
 ```bash
 javac *.java
 java Main
